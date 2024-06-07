@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @spicebush-cat
+- first year cs student :)
+- 🌱 I’m currently learning web dev
