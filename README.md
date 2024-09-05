@@ -1,2 +1,1 @@
 - 👋 Hi, I’m nouara
-- first year cs student :)
